@@ -1,7 +1,7 @@
 # Course: *Network Programming*
 ------
 # Topic: *SMTP Client App*
-### Author: *Drumea Vasile*
+### Author: *Chetrusca Dumitru*
 ------
 ## Objectives :
 1. Study the SMTP and POP3 protocols and their usages in Web communication;
