@@ -1,7 +1,7 @@
 # Course: *Network Programming*
 ------
 # Topic: *Sockets API Client Server App*
-### Author: *Drumea Vasile*
+### Author: *Chetrusca Dumitru*
 ------
 ## Objectives :
 1. Get familiar with Sockets API of the chosen language;
